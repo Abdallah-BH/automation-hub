@@ -1,0 +1,9 @@
+# Terraform - don't commit these
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# OS
+.DS_Store
+Thumbs.db
